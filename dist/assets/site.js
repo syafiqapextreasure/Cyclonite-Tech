@@ -18,6 +18,50 @@
   matchMedia('(min-width:961px)').addEventListener('change', event => { if (event.matches) setMenu(false); });
 
   // Essential content remains visible without JavaScript or if motion is reduced.
+  const counterMotion = matchMedia('(prefers-reduced-motion: reduce)');
+  if ('IntersectionObserver' in window && !counterMotion.matches) {
+    const runningCounters = new Map();
+    const counterObserver = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (!entry.isIntersecting) return;
+        counterObserver.unobserve(entry.target);
+        const counters = [...entry.target.querySelectorAll('.stat strong')].map(el => {
+          const label = el.textContent;
+          const match = label.match(/\d+/);
+          if (!match) return null;
+          // Keep the final, localized value available to assistive technology.
+          el.setAttribute('aria-label', label);
+          return { el, label, target: Number(match[0]) };
+        }).filter(Boolean);
+        const started = performance.now();
+        function tick(now) {
+          const progress = Math.min(1, (now - started) / 1500);
+          const eased = 1 - Math.pow(1 - progress, 3);
+          counters.forEach(({ el, label, target }) => {
+            el.textContent = progress === 1 ? label : label.replace(/\d+/, String(Math.floor(target * eased)));
+          });
+          if (progress < 1 && !counterMotion.matches) {
+            runningCounters.set(entry.target, { frame: requestAnimationFrame(tick), counters });
+          } else {
+            counters.forEach(({ el, label }) => { el.textContent = label; });
+            runningCounters.delete(entry.target);
+          }
+        }
+        tick(started);
+      });
+    }, { threshold: 0.35 });
+    document.querySelectorAll('.stats').forEach(el => counterObserver.observe(el));
+    counterMotion.addEventListener('change', event => {
+      if (!event.matches) return;
+      counterObserver.disconnect();
+      runningCounters.forEach(({ frame, counters }) => {
+        cancelAnimationFrame(frame);
+        counters.forEach(({ el, label }) => { el.textContent = label; });
+      });
+      runningCounters.clear();
+    });
+  }
+
   if ('IntersectionObserver' in window && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
     const observer = new IntersectionObserver(entries => entries.forEach(entry => {
       if (entry.isIntersecting) { entry.target.classList.remove('is-pending'); entry.target.classList.add('is-visible'); observer.unobserve(entry.target); }

@@ -242,5 +242,9 @@
   "portfolio-banner": {
     "width": 2172,
     "height": 724
+  },
+  "contact-banner": {
+    "width": 2171,
+    "height": 724
   }
 }

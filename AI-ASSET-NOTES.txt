@@ -22,3 +22,5 @@ services-water: Deep navy/teal open water, sun rays, distant fish on the right a
 Source PNGs are in assets-source/; web-ready variants are in dist/assets/.
 
 Portfolio banner update: supplied IMG-20261013-WA0026.jpg enhanced and outpainted with built-in image generation to a 2172 x 724 landscape. Prompt: preserve three divers and their equipment, improve clarity, group them on the right with safe headroom, extend calm river water on the left for headings, reduce the dominance of the muddy cliff. Original documentary image remains in the gallery. Specific model cannot be confirmed because the tool exposes no model selector.
+
+Contact banner: a new conceptual marine project-planning scene generated with built-in image generation. 2171 x 724 pixels. Yellow commercial diving helmet, radio, clipboard and technical plans on a vessel deck overlooking a calm tropical harbour at blue hour. Equipment on the right, open navy water on the left for white headings. No real office, location or project is depicted. Specific model cannot be confirmed because the tool exposes no model selector.
