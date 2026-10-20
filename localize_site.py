@@ -38,7 +38,7 @@ def build_languages(origin, paths):
             a=dict(attrs)
             if tag=='script':self.json_script=a.get('type')=='application/ld+json'
             if tag=='html':a['lang']='ms-MY'
-            for k in ('alt','aria-label','placeholder','data-title','data-caption'):
+            for k in ('alt','aria-label','placeholder','data-title','data-caption','title'):
                 if k in a:a[k]=translate(a[k])
             if tag=='meta':
                 if a.get('name')=='description' or a.get('property') in ('og:title','og:description'):a['content']=translate(a['content'])

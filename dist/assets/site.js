@@ -36,6 +36,7 @@
       card.hidden = category !== 'all' && card.dataset.category !== category;
       if (!card.hidden) card.classList.remove('is-pending');
     });
+    document.querySelectorAll('.portfolio-group').forEach(group => { group.hidden = !group.querySelector('.photo-card:not([hidden])'); });
     const count = cards.filter(card => !card.hidden).length;
     document.querySelector('.results-count').textContent = isMalay ? `${count} foto` : `${count} ${count === 1 ? 'photograph' : 'photographs'}`;
   }));

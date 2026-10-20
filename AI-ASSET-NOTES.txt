@@ -4,3 +4,19 @@ The hero was enhanced and recomposed from the supplied salvage photograph using 
 
 Hero generation prompt:
 Edit target: the supplied original Cyclonite salvage photograph. Produce a high-resolution, clean photographic website hero background, wide 16:9 landscape ideally 3840x2160. Faithfully preserve this exact wreck's mast, hanging ropes, broken frame silhouette and weathered green surfaces, dusk navy sea and emerald water. Improve clarity, reduce JPEG noise, recover believable fine texture without inventing machinery or changing the wreck. Recompose/outpaint so the entire distinctive wreck sits in the RIGHT third, centered at 77% of image width, spanning roughly x=59% to 90%; mast and lower frame fully visible with small margins. LEFT 55% should be naturally quiet deep navy open sea and sky, clean uncluttered negative space for white website text. Keep natural photographic illumination on the wreck; no dark shadow overlay or vignette, no gradients painted over the wreck. No typography, logo, UI, red circles, arrows, borders or watermarks. This is a cleaned enhanced hero photograph, not a website mockup.
+
+
+REVISION 3 — GENERATED ASSETS
+Built-in image generation was used. The tool does not expose a model selector; GPT Image 2 cannot be independently confirmed.
+Four supplied photos were enhanced/recomposed for showcase use; original photos remain in the portfolio. AI reconstruction can alter fine detail.
+Two new illustrative underwater backgrounds are decorative, not documentary project photographs.
+
+Prompt briefs used:
+crew-showcase: Preserve the three crew members, equipment, poses and nighttime boat scene. Reduce noise, improve sharpness and balance glare; landscape 4:3.
+salvage-showcase: Preserve the distinctive wreck, ropes and navy/teal sea. Center the entire frame and mast with margins; sharpen naturally; landscape 4:3.
+electronics-showcase: Preserve the technician, pose and instruments. Improve detail and reduce haze, extend cabin margins into landscape 4:3.
+helmet-showcase: Preserve the yellow helmet, disassembled parts and top-down arrangement. Improve clarity and lighting; extend concrete margins for a centered landscape 4:3 layout.
+services-banner: Illustrative commercial helmet diver with umbilical inspecting a steel hull on the right; continuous navy/teal water and calm space on the left; wide 16:9, no text/UI.
+services-water: Deep navy/teal open water, sun rays, distant fish on the right and rock shelf along the bottom. No diver, bubble column, cave wall or wreck; wide 16:9, no text/UI.
+
+Source PNGs are in assets-source/; web-ready variants are in dist/assets/.

@@ -214,5 +214,29 @@
   "field-0103": {
     "width": 1920,
     "height": 2560
+  },
+  "crew-showcase": {
+    "width": 1448,
+    "height": 1086
+  },
+  "salvage-showcase": {
+    "width": 1448,
+    "height": 1086
+  },
+  "electronics-showcase": {
+    "width": 1448,
+    "height": 1086
+  },
+  "helmet-showcase": {
+    "width": 1448,
+    "height": 1086
+  },
+  "services-banner": {
+    "width": 1672,
+    "height": 941
+  },
+  "services-water": {
+    "width": 1672,
+    "height": 941
   }
 }

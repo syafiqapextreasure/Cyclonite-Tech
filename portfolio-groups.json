@@ -1,0 +1,181 @@
+{
+  "grouping_basis": "Similar visible activities; groups do not assert a shared project, date or location.",
+  "groups": [
+    {
+      "id": "salvage-recovery",
+      "title_en": "Salvage & recovery",
+      "title_ms": "Salvaj & pemulihan",
+      "description_en": "Lifting work, recovered structures and the people aboard marine work vessels.",
+      "description_ms": "Kerja mengangkat, struktur yang dipulihkan dan pasukan di atas kapal kerja marin.",
+      "assets": [
+        "salvage",
+        "field-0086",
+        "field-0075",
+        "field-0070"
+      ]
+    },
+    {
+      "id": "onboard-dive-preparation",
+      "title_en": "Onboard dive preparation",
+      "title_ms": "Persediaan selaman di atas bot",
+      "description_en": "Divers, support crew and equipment preparation aboard boats and vessels.",
+      "description_ms": "Penyelam, kru sokongan dan persediaan peralatan di atas bot serta kapal.",
+      "assets": [
+        "crew",
+        "field-0083",
+        "field-0084",
+        "field-0074",
+        "field-0089"
+      ]
+    },
+    {
+      "id": "river-dive-preparation",
+      "title_en": "River diving & preparation",
+      "title_ms": "Selaman sungai & persediaan",
+      "description_en": "Dive preparation and team activity in shallow river water.",
+      "description_ms": "Persediaan selaman dan aktiviti pasukan di kawasan sungai cetek.",
+      "assets": [
+        "field-0026",
+        "field-0027",
+        "field-0047",
+        "field-0051"
+      ]
+    },
+    {
+      "id": "waterway-searches",
+      "title_en": "Waterway searches & fieldwork",
+      "title_ms": "Carian & kerja lapangan di laluan air",
+      "description_en": "Search equipment and field teams working along streams, banks and waterway structures.",
+      "description_ms": "Peralatan carian dan pasukan lapangan di anak sungai, tebing serta struktur laluan air.",
+      "assets": [
+        "uxo",
+        "field-0017",
+        "field-0018",
+        "field-0019",
+        "field-0042",
+        "field-0044",
+        "field-0045",
+        "field-0048",
+        "field-0052",
+        "field-0055",
+        "field-0057",
+        "field-0064"
+      ]
+    },
+    {
+      "id": "ground-inspection",
+      "title_en": "Ground inspection & documentation",
+      "title_ms": "Pemeriksaan tanah & dokumentasi",
+      "description_en": "Field inspections, excavated areas and photographic documentation of objects.",
+      "description_ms": "Pemeriksaan lapangan, kawasan penggalian dan dokumentasi fotografi objek.",
+      "assets": [
+        "field-0031",
+        "field-0032",
+        "field-0033",
+        "field-0034",
+        "field-0035",
+        "field-0037",
+        "field-0038",
+        "field-0041",
+        "field-0043",
+        "field-0046",
+        "field-0050",
+        "field-0053",
+        "field-0059",
+        "field-0062"
+      ]
+    },
+    {
+      "id": "marine-electronics",
+      "title_en": "Marine electronics",
+      "title_ms": "Elektronik marin",
+      "description_en": "Work on a vessel navigation console and electronic equipment.",
+      "description_ms": "Kerja pada konsol navigasi kapal dan peralatan elektronik.",
+      "assets": [
+        "electronics",
+        "field-0103"
+      ]
+    },
+    {
+      "id": "equipment-care",
+      "title_en": "Diving equipment care",
+      "title_ms": "Penjagaan peralatan selam",
+      "description_en": "Helmet servicing, specialist equipment maintenance and organised gear storage.",
+      "description_ms": "Servis helmet, penyelenggaraan peralatan khusus dan penyimpanan kelengkapan yang teratur.",
+      "assets": [
+        "helmet",
+        "maintenance",
+        "ccba",
+        "storage"
+      ]
+    },
+    {
+      "id": "briefings-coordination",
+      "title_en": "Briefings & team coordination",
+      "title_ms": "Taklimat & penyelarasan pasukan",
+      "description_en": "Outdoor briefings, meetings, training and team photographs.",
+      "description_ms": "Taklimat di luar, mesyuarat, latihan dan foto pasukan.",
+      "assets": [
+        "training",
+        "coordination",
+        "field-0016",
+        "field-0022",
+        "field-0066",
+        "field-0080"
+      ]
+    }
+  ],
+  "asset_groups": {
+    "salvage": "salvage-recovery",
+    "field-0086": "salvage-recovery",
+    "field-0075": "salvage-recovery",
+    "field-0070": "salvage-recovery",
+    "crew": "onboard-dive-preparation",
+    "field-0083": "onboard-dive-preparation",
+    "field-0084": "onboard-dive-preparation",
+    "field-0074": "onboard-dive-preparation",
+    "field-0089": "onboard-dive-preparation",
+    "field-0026": "river-dive-preparation",
+    "field-0027": "river-dive-preparation",
+    "field-0047": "river-dive-preparation",
+    "field-0051": "river-dive-preparation",
+    "uxo": "waterway-searches",
+    "field-0017": "waterway-searches",
+    "field-0018": "waterway-searches",
+    "field-0019": "waterway-searches",
+    "field-0042": "waterway-searches",
+    "field-0044": "waterway-searches",
+    "field-0045": "waterway-searches",
+    "field-0048": "waterway-searches",
+    "field-0052": "waterway-searches",
+    "field-0055": "waterway-searches",
+    "field-0057": "waterway-searches",
+    "field-0064": "waterway-searches",
+    "field-0031": "ground-inspection",
+    "field-0032": "ground-inspection",
+    "field-0033": "ground-inspection",
+    "field-0034": "ground-inspection",
+    "field-0035": "ground-inspection",
+    "field-0037": "ground-inspection",
+    "field-0038": "ground-inspection",
+    "field-0041": "ground-inspection",
+    "field-0043": "ground-inspection",
+    "field-0046": "ground-inspection",
+    "field-0050": "ground-inspection",
+    "field-0053": "ground-inspection",
+    "field-0059": "ground-inspection",
+    "field-0062": "ground-inspection",
+    "electronics": "marine-electronics",
+    "field-0103": "marine-electronics",
+    "helmet": "equipment-care",
+    "maintenance": "equipment-care",
+    "ccba": "equipment-care",
+    "storage": "equipment-care",
+    "training": "briefings-coordination",
+    "coordination": "briefings-coordination",
+    "field-0016": "briefings-coordination",
+    "field-0022": "briefings-coordination",
+    "field-0066": "briefings-coordination",
+    "field-0080": "briefings-coordination"
+  }
+}

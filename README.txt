@@ -62,3 +62,5 @@ Cloudflare routing: https://developers.cloudflare.com/workers/static-assets/rout
 Search Console ownership: https://support.google.com/webmasters/answer/9008080
 Google sitemap guide: https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap
 Google local visibility: https://support.google.com/business/answer/7091
+
+Revision 3: portfolio-groups.json controls the eight activity groups; generated showcase and background images are documented in AI-ASSET-NOTES.txt. The contact page includes an embedded Google Map.
