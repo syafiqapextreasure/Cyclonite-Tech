@@ -120,3 +120,8 @@ h3{font-size:clamp(24px,1.8vw,37px)}
 
 .masthead[style*="portfolio-banner"]{background-image:linear-gradient(90deg,rgba(3,19,30,.78),rgba(3,19,30,.22) 62%,rgba(3,19,30,.04)),url("/assets/portfolio-banner-2172.webp")}
 @media(max-width:700px){.masthead[style*="portfolio-banner"]{background-position:100% center;background-image:linear-gradient(90deg,rgba(3,19,30,.8),rgba(3,19,30,.45)),url("/assets/portfolio-banner-1600.webp")}}
+
+/* Compact header enquiry button; retain its accessible name. */
+.site-header #site-nav>.button{width:56px;min-width:56px;padding:14px;flex-shrink:0}
+.site-header #site-nav>.button span{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;border:0}
+
