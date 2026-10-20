@@ -238,5 +238,9 @@
   "services-water": {
     "width": 1672,
     "height": 941
+  },
+  "portfolio-banner": {
+    "width": 2172,
+    "height": 724
   }
 }

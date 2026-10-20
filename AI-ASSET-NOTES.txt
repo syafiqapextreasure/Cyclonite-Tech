@@ -20,3 +20,5 @@ services-banner: Illustrative commercial helmet diver with umbilical inspecting 
 services-water: Deep navy/teal open water, sun rays, distant fish on the right and rock shelf along the bottom. No diver, bubble column, cave wall or wreck; wide 16:9, no text/UI.
 
 Source PNGs are in assets-source/; web-ready variants are in dist/assets/.
+
+Portfolio banner update: supplied IMG-20261013-WA0026.jpg enhanced and outpainted with built-in image generation to a 2172 x 724 landscape. Prompt: preserve three divers and their equipment, improve clarity, group them on the right with safe headroom, extend calm river water on the left for headings, reduce the dominance of the muddy cliff. Original documentary image remains in the gallery. Specific model cannot be confirmed because the tool exposes no model selector.

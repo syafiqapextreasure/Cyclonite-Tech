@@ -112,3 +112,11 @@ h3{font-size:clamp(24px,1.8vw,37px)}
 .office-map{display:block;width:100%;height:clamp(360px,32vw,650px);border:1px solid #b8c7d1;border-radius:14px;background:#dce6ea}
 .map-note{margin-top:18px;color:#465963}
 @media(max-width:700px){.masthead{padding:28px 0 60px;min-height:480px;background-size:cover;background-position:60% center;background-image:linear-gradient(90deg,#03131ed9,#03131e80),var(--hero-image)}.masthead h1,.masthead p:not(.eyebrow){max-width:100%}.masthead h1{font-size:clamp(38px,9vw,54px)}.portfolio-group{margin-top:45px;padding-top:30px}.capabilities-intro{padding-bottom:30px;margin-bottom:30px}.office-map{height:380px}.office-map-section .section-heading{align-items:flex-start}}
+
+/* Preserve the original logo artwork without a white header badge. */
+.site-header .logo{background:transparent;border-radius:0}
+.site-header .logo img{mix-blend-mode:multiply}
+
+
+.masthead[style*="portfolio-banner"]{background-image:linear-gradient(90deg,rgba(3,19,30,.78),rgba(3,19,30,.22) 62%,rgba(3,19,30,.04)),url("/assets/portfolio-banner-2172.webp")}
+@media(max-width:700px){.masthead[style*="portfolio-banner"]{background-position:100% center;background-image:linear-gradient(90deg,rgba(3,19,30,.8),rgba(3,19,30,.45)),url("/assets/portfolio-banner-1600.webp")}}
