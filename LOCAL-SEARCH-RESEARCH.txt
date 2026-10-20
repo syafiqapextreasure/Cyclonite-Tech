@@ -1,0 +1,148 @@
+CYCLONITE TECH — LOCAL SEARCH, KEYWORDS & COMPETITOR RESEARCH
+Prepared: 20 October 2026 (Asia/Singapore)
+
+This is an implementation and content plan, not a claim of current rankings. Competitors were found through web searches and their official company pages. Their listed services and locations are self-published claims, not independently audited credentials. No keyword volumes, traffic, difficulty scores, Google Maps positions or competitor market shares were measured. Keyword priorities below are editorial judgments based on service relevance and likely enquiry intent.
+
+1. POSITIONING AND GEOGRAPHIC FOCUS
+
+Lead with: Specialist underwater contractor based in Seri Manjung, Perak.
+Primary geographic intent: Seri Manjung / Manjung, Lumut, Sitiawan and Perak. State actual coverage and availability; do not create false offices in nearby towns. The supplied business location is 52A, Jalan PPMP3/1, Manjung Point 3, Seri Manjung, Perak, Malaysia. Verify postal code, spelling, appointment policy and map pin with the business before updating external listings.
+
+Interpret GEO first as geographic visibility around Manjung, as requested. For generative-engine discovery, use the same accurate entity information, original evidence and crawlable pages; no special markup can guarantee an AI recommendation.
+
+2. VERIFIED COMPETITOR / SEARCH ALTERNATIVE TABLE
+
+Business | Geographic classification | Observed overlap | Practical opportunity
+
+IKE Services (M) Sdn Bhd | Local: No. 56, Persiaran Venice Sutera 1, Desa Manjung Raya, 32200 Lumut, Perak | Marine electronics/electrical products and maintenance, repair and overhaul | Give Cyclonite's electronics page clear supported equipment categories, enquiry requirements and authentic repair photographs.
+Sources: https://ikes.com.my/ ; https://ikes.com.my/profile/
+
+NA Apex | Local: site identifies Manjung, Lumut, Perak | Marine system integration, instrumentation, PLCs, control and monitoring, installation, commissioning and onboard troubleshooting | Explain Cyclonite's actual scope precisely, especially what equipment can be inspected or serviced. Do not imply equivalent automation capability without evidence.
+Source: https://naapex.com/
+
+Lumut Maritime Terminal / Lumut Port | Local: Lot 1, Lumut Port Industrial Park, Jalan Kg Acheh, Sitiawan, Perak | Port/marine services include underwater hull inspection and cleaning | An adjacent service alternative and possible industry relationship, not an exact standalone diving-contractor match. Provide a focused inspection enquiry path and explain deliverables available after discussing the job.
+Source: https://lumutport.com/marine-services/
+
+Advantage Marine Services (Malaysia) Sdn Bhd | National service competitor: main office in Gelang Patah, Johor; branch offices listed in Selangor and Miri | Commercial diving, underwater inspection, engineering and salvage | Compete through genuine Manjung presence, specific project evidence and clear local contact details. Its broader range is not evidence that Cyclonite should advertise additional services.
+Sources: https://www.advantagemarine.com.my/services/ ; https://www.advantagemarine.com.my/reach-us/ ; https://www.advantagemarine.com.my/wp-content/uploads/2024/06/Company-Profile-Final-2024_Rev-001-compressed.pdf
+
+Borneo Subsea Services (Malaysia) Sdn Bhd | National service competitor: Labuan F.T., Malaysia | Commercial diving, ROV and inspection/repair/maintenance; site also lists salvage registration | Show Cyclonite's own personnel experience and verified capabilities with context; do not borrow another firm's licences or claim class approvals without documentation.
+Source: https://borneosubsea.com/
+
+Helms Geomarine Sdn Bhd | National adjacent competitor: headquarters at Menara Hidayah, Wangsa Maju, Kuala Lumpur | Offshore geotechnical/geophysical and marine site surveys; its indexed side-scan-sonar page lists UXO surveys among applications | Keep the distinction between survey capability and UXO/EOD support explicit. Do not describe survey competitors as disposal contractors. Cyclonite's UXO page should describe only documented scope and project assessment.
+Sources: https://helmsgeomarine.com/ ; https://helmsgeomarine.com/analogue_survey/side-scan-sonar/
+Evidence limitation: the official sonar page was available in the search index, but direct fetch timed out. Headquarters and general survey scope were verified on its live homepage. No Manjung-based UXO specialist was confirmed in this limited review.
+
+3. KEYWORD CLUSTERS AND PAGE MAPPING
+
+Use these as writing topics, not lists to paste into visible copy or a meta-keywords tag. Avoid adding "near me" unnaturally to headings. If Malay pages are built, use complete, reviewed translations with unique URLs and reciprocal hreflang; isolated translated keywords are not a bilingual site.
+
+Priority 1 — Home (/)
+English: underwater contractor Manjung; commercial diving services Perak; specialist underwater services Seri Manjung; commercial diving Lumut.
+Malay: kontraktor bawah air Manjung; perkhidmatan menyelam komersial Perak; kerja bawah air Lumut.
+Suggested title: Underwater Contractor in Manjung, Perak | Cyclonite Tech
+Purpose: identify the company, location and core service offering immediately.
+
+Priority 1 — Diving & Inspection (/services/diving-inspection/ or substantial Services section)
+English: underwater inspection Manjung; commercial divers Lumut; underwater inspection Perak; diving inspection services Malaysia.
+Malay: pemeriksaan bawah air Manjung; penyelam komersial Lumut; pemeriksaan bawah air Perak.
+Answer: what can be inspected, what the customer should supply, how scope and conditions affect planning, and which records/reporting are agreed for the job.
+
+Priority 1 — Salvage & Underwater Works (/services/salvage-underwater-works/)
+English: marine salvage Perak; underwater recovery Lumut; salvage contractor Manjung; underwater works Malaysia.
+Malay: kerja salvaj marin Perak; pemulihan objek bawah air Lumut; kontraktor kerja bawah air Manjung.
+Answer: project types supported, required location/depth/object details, initial assessment and planning. Do not advertise a guaranteed recovery or emergency response time.
+
+Priority 1 — Equipment & Marine Electronics (/services/equipment-marine-electronics/)
+English: marine electronics repair Manjung; marine electronics servicing Lumut; diving equipment servicing Perak.
+Malay: pembaikan elektronik marin Manjung; servis elektronik marin Lumut; servis peralatan menyelam Perak.
+Answer: supported equipment categories, assessment process and what model/fault photographs to send.
+
+Priority 2 — Local coverage (/manjung-perak/ if enough distinct useful content; otherwise Home + Contact)
+English: underwater services Seri Manjung; diving contractor near Lumut; marine services Sitiawan; underwater contractor Perak.
+Malay: perkhidmatan bawah air Seri Manjung; kontraktor menyelam Lumut; perkhidmatan marin Sitiawan.
+Content: actual base, verified service areas, appointment/directions details, local enquiries and locally evidenced projects. Do not publish thin copied town pages.
+
+Priority 2 — Portfolio (/portfolio/)
+English: underwater salvage project Malaysia; marine electronics repair projects; diving equipment servicing projects.
+Malay: projek kerja bawah air Malaysia; projek salvaj marin; projek pembaikan elektronik marin.
+Build separate case studies only when real scope, date/location permissions and outcomes are available. Include original photographs with factual captions; do not infer a project location from an image.
+
+Priority 2 — About (/about/)
+English: Cyclonite Tech; Cyclonite Tech Manjung; naval clearance diving experience Malaysia.
+Malay: Cyclonite Tech Seri Manjung; pasukan penyelam komersial Perak.
+Describe documented personnel experience distinctly from company age. State the source/date for claims that may change.
+
+Priority 2 — Contact (/contact/)
+English: Cyclonite Tech contact; underwater contractor quotation Manjung; commercial diving enquiry Perak.
+Malay: hubungi Cyclonite Tech; sebut harga kerja bawah air Manjung.
+Make WhatsApp, phone, email, address and an enquiry checklist readable and easy to activate.
+
+Priority 3 — Specialist services, only where supported by the supplied capability material
+UXO/EOD: UXO support Malaysia; underwater UXO survey support Perak; sokongan UXO EOD Malaysia.
+Consultancy/training: commercial diving consultancy Malaysia; underwater work planning Perak; perundingan kerja bawah air.
+Building/structural: structural services Manjung; perkhidmatan struktur Manjung.
+Keep these in dedicated service sections/pages so broad construction terms do not dilute the main underwater-contractor positioning. No blast/disposal instructions or unverified authorisation claims are needed for marketing copy.
+
+4. QUESTIONS THAT HELP CUSTOMERS AND ANSWER ENGINES
+
+Write plain, directly answered questions using only confirmed facts:
+- Where is Cyclonite Tech based?
+- What underwater services can the team provide?
+- Can you assess a project in Lumut or elsewhere in Perak?
+- What information should I send to request a quotation?
+- Can you assess diving equipment or marine electronics?
+- How are underwater projects planned before mobilisation?
+- Where can I view examples of your work?
+
+Each answer should be visible in HTML, meaningful without images and linked to the relevant service/contact page. Do not promise fixed mobilisation times, prices, approvals or 24-hour availability without business confirmation. FAQs are a customer usability/content choice, not a guaranteed search-result feature.
+
+5. TECHNICAL SEO AND GOOGLE SEARCH CONSOLE LAUNCH PLAN
+
+A. Publish the chosen production domain over HTTPS. Ensure important pages are publicly accessible, return HTTP 200, contain useful indexable text and permit Googlebot. Remove preview noindex settings only from production pages intended for indexing. Keep true missing pages as 404s. Eligibility does not guarantee indexing.
+Google: https://developers.google.com/search/docs/essentials/technical
+
+B. Set one absolute canonical URL per indexable page using the final production domain. Align internal links, redirects and sitemap URLs; do not canonicalise all service pages to the home page. Canonicals are signals, not guarantees of Google's selection. Redirect duplicate www/non-www and protocol variants appropriately.
+Google: https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls
+
+C. Generate a UTF-8 XML sitemap containing canonical production URLs, serve it from the root and reference it in robots.txt. Include only real URLs intended for search. Submit it through Search Console after verification. Sitemaps help discovery; they do not guarantee indexing or rankings.
+Google: https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap
+
+D. Verify a Domain property using DNS when domain administration is available. A URL-prefix property can use Google's supplied HTML verification tag or file. Never invent a verification token; use the exact account-generated value and keep it installed. The live verification resource must be accessible without login. This website can be prepared for verification, but code alone cannot establish account ownership.
+Google: https://support.google.com/webmasters/answer/9008080?hl=en
+
+E. In Search Console, inspect the home, service, portfolio and contact URLs; check selected canonicals, crawl access and page indexing. Request indexing for key pages after launch and monitor sitemap processing. Use Performance data to prioritise real queries and pages, with country/device filters. Search Console is not a map-grid rank tracker and does not prove a specific Manjung street-level position.
+
+Implementation recommendations: descriptive unique titles and meta descriptions; semantic headings; descriptive crawlable navigation; authentic image alt text; responsive images; image dimensions to limit layout shift; lazy-load below-fold images; avoid heavy autoplay hero videos; keep essential content independent of animation. Use accurate LocalBusiness/Organization, Service and BreadcrumbList data only where the displayed content supports it. Do not add invented ratings, geographic coordinates, opening hours or certifications.
+
+6. LOCAL VISIBILITY ACTION PLAN
+
+Google identifies relevance, distance and prominence/popularity as the main local ranking factors. Complete, accurate business information, verification, photos and genuine reviews can help. There is no way to pay Google for a better local organic ranking. Source: https://support.google.com/business/answer/7091?hl=en
+
+Recommended next actions (not performed by this research):
+1. Confirm the exact business name, phone, address, hours, service coverage and whether customers can visit the office.
+2. Claim/verify the eligible Google Business Profile. Choose the most accurate available primary category; add only applicable secondary categories and services. Keep the real name free of added search keywords.
+3. Align website contact details and other legitimate company listings. Use the real map pin; use appropriate service-area settings if the business visits customers and does not receive them at the address.
+4. Add real team, equipment, premises and project photos with permission. Publish genuine local case studies with actual outcomes.
+5. Invite completed-project customers to leave honest reviews, without incentives or screening out criticism; reply helpfully.
+6. Seek legitimate industry associations, supplier/partner listings and editorial coverage where there is a real relationship. Do not buy spam links or manufacture mentions.
+7. Track qualified WhatsApp conversations, call clicks and enquiries separately from rankings. An outbound click is not proof of an enquiry or a sale.
+
+7. CURRENT AEO / GENERATIVE SEARCH GUIDANCE
+
+Google's current guide says normal SEO foundations remain relevant; there is no special schema needed for generative AI search. It explicitly says llms.txt is ignored by Google Search and neither helps nor harms its rankings. Original, useful service/project information and accurate business details are better investments than rewriting for every keyword variant. These recommendations improve the site's usefulness but do not guarantee AI citations.
+Google: https://developers.google.com/search/docs/fundamentals/ai-optimization-guide
+
+Important 2026 change: Google stopped showing FAQ rich results from 7 May 2026 and removed that documentation on 15 June 2026. Do not sell FAQPage markup as a Google rich-result benefit. Retain helpful visible FAQs as ordinary page content.
+Google changelog: https://developers.google.com/search/updates
+
+Google's Generative AI performance report now covers AI Overviews and AI Mode impressions. Official documentation says it rolled out worldwide by 31 August 2026; a site may not see the report until it has enough impressions. Use it to monitor page, country and device visibility, not as proof of booked projects or a guaranteed AI ranking.
+Google: https://support.google.com/webmasters/answer/16984139
+
+8. FIRST 90 DAYS — PRIORITY ORDER
+
+Before launch: verify business facts, final domain, canonical/sitemap URLs, real imagery, link/WhatsApp behaviour, accessible typography and mobile/desktop layouts. Verify ownership and submit the sitemap when account/domain access is ready.
+First month: establish Search Console baseline; resolve indexing problems; complete the eligible business profile; collect accurate project details. Prioritise diving, inspection, salvage and equipment enquiries around Manjung/Lumut.
+Months two and three: publish the strongest permission-cleared case studies, refine pages using actual search queries and sales questions, add reviewed Malay content if demand supports it, and assess qualified leads. Review broad national terms after the local service pages are useful and measurable.
+
+Success measures: indexed intended pages; relevant local non-brand impressions and clicks; qualified enquiries; service-specific conversions; genuine profile engagement. No first-page or number-one position is promised.

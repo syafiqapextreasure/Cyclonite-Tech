@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cyclonite-tech-manjung.blush-luck-8644.chatgpt.site/sitemap.xml

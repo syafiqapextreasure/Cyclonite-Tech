@@ -1,0 +1,8 @@
+__pycache__/
+.wrangler/
+.openai/
+node_modules/
+.env
+.env.*
+*.tar.gz
+*.zip

@@ -1,0 +1,218 @@
+{
+  "ccba": {
+    "width": 2560,
+    "height": 1920
+  },
+  "coordination": {
+    "width": 2560,
+    "height": 1920
+  },
+  "crew": {
+    "width": 1280,
+    "height": 960
+  },
+  "electronics": {
+    "width": 810,
+    "height": 1080
+  },
+  "helmet": {
+    "width": 810,
+    "height": 1080
+  },
+  "inspection": {
+    "width": 960,
+    "height": 1280
+  },
+  "maintenance": {
+    "width": 1280,
+    "height": 831
+  },
+  "ocean": {
+    "width": 1659,
+    "height": 948
+  },
+  "recovery": {
+    "width": 750,
+    "height": 1000
+  },
+  "salvage": {
+    "width": 1280,
+    "height": 720
+  },
+  "storage": {
+    "width": 1920,
+    "height": 2560
+  },
+  "training": {
+    "width": 1000,
+    "height": 750
+  },
+  "uxo": {
+    "width": 854,
+    "height": 1280
+  },
+  "field-0016": {
+    "width": 1080,
+    "height": 810
+  },
+  "field-0017": {
+    "width": 765,
+    "height": 1020
+  },
+  "field-0018": {
+    "width": 765,
+    "height": 1020
+  },
+  "field-0019": {
+    "width": 765,
+    "height": 1020
+  },
+  "field-0022": {
+    "width": 1920,
+    "height": 2560
+  },
+  "field-0026": {
+    "width": 765,
+    "height": 1020
+  },
+  "field-0027": {
+    "width": 765,
+    "height": 1020
+  },
+  "field-0031": {
+    "width": 2560,
+    "height": 1920
+  },
+  "field-0032": {
+    "width": 2560,
+    "height": 1920
+  },
+  "field-0033": {
+    "width": 2560,
+    "height": 1920
+  },
+  "field-0034": {
+    "width": 1280,
+    "height": 960
+  },
+  "field-0035": {
+    "width": 1280,
+    "height": 960
+  },
+  "field-0037": {
+    "width": 1280,
+    "height": 960
+  },
+  "field-0038": {
+    "width": 750,
+    "height": 1000
+  },
+  "field-0041": {
+    "width": 960,
+    "height": 1280
+  },
+  "field-0042": {
+    "width": 1280,
+    "height": 960
+  },
+  "field-0043": {
+    "width": 960,
+    "height": 1280
+  },
+  "field-0044": {
+    "width": 1280,
+    "height": 960
+  },
+  "field-0045": {
+    "width": 1280,
+    "height": 960
+  },
+  "field-0046": {
+    "width": 1080,
+    "height": 810
+  },
+  "field-0047": {
+    "width": 1080,
+    "height": 810
+  },
+  "field-0048": {
+    "width": 765,
+    "height": 1020
+  },
+  "field-0050": {
+    "width": 720,
+    "height": 1280
+  },
+  "field-0051": {
+    "width": 853,
+    "height": 1280
+  },
+  "field-0052": {
+    "width": 1280,
+    "height": 960
+  },
+  "field-0053": {
+    "width": 1080,
+    "height": 810
+  },
+  "field-0055": {
+    "width": 960,
+    "height": 1280
+  },
+  "field-0057": {
+    "width": 1280,
+    "height": 960
+  },
+  "field-0059": {
+    "width": 810,
+    "height": 1080
+  },
+  "field-0062": {
+    "width": 960,
+    "height": 1280
+  },
+  "field-0064": {
+    "width": 1280,
+    "height": 960
+  },
+  "field-0066": {
+    "width": 992,
+    "height": 744
+  },
+  "field-0070": {
+    "width": 810,
+    "height": 1080
+  },
+  "field-0074": {
+    "width": 810,
+    "height": 1080
+  },
+  "field-0075": {
+    "width": 960,
+    "height": 1280
+  },
+  "field-0080": {
+    "width": 810,
+    "height": 1080
+  },
+  "field-0083": {
+    "width": 960,
+    "height": 1280
+  },
+  "field-0084": {
+    "width": 960,
+    "height": 1280
+  },
+  "field-0086": {
+    "width": 750,
+    "height": 1000
+  },
+  "field-0089": {
+    "width": 499,
+    "height": 1080
+  },
+  "field-0103": {
+    "width": 1920,
+    "height": 2560
+  }
+}

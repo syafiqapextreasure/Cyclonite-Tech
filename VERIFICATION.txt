@@ -1,0 +1,14 @@
+CYCLONITE TECH — REVISION 2 VERIFICATION
+20 October 2026
+
+PASS: 28 HTML pages: 26 indexable English/Malay pages and two 404 pages.
+PASS: Unique titles, one H1 per page, descriptions, parsed JSON-LD, canonical URLs, local links and image assets, image alt attributes, 26 sitemap URLs and crawlable robots.txt.
+PASS: 50 unique supplied Drive photos included in both portfolio languages, plus one PDF training photo. One byte-identical duplicate is displayed only once.
+PASS: Browser inspection at 390, 1440 and 2560 pixel widths; no horizontal page overflow in measured views. Body text scales from 18px to 28px.
+PASS: Right-positioned enhanced hero, red stat icons, underwater services background and transparent cards visually inspected.
+PASS: Mobile menu, EN/BM same-page language switching, Malay equipment filter (6 photos), translated photo dialog and close action.
+PASS: JavaScript syntax.
+
+Previous version: required-field validation and WhatsApp draft opening checked without sending a message.
+Not completed: production deployment, production HTTP headers/statuses, Search Console verification, indexing, rankings or Core Web Vitals field measurements.
+The Sites upload helper was blocked by session approval policy. The reserved origin is not live. Set your real Cloudflare Worker origin in site-config.json, rebuild and deploy using README.txt.
